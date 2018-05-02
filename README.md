@@ -13,6 +13,6 @@ Steps:
 Note:
 See `popularity.sol` for the smart contract (hosted on Kovan Testnet).
 
-```Ethereum Proof of Existence dApp built in a day since I couldn't really find one online!```
+
  Reference: 
  Proof-of-Existence - https://github.com/amousa11/ethereum-poe, credits to the Berkeley Blockchain Foundation
