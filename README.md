@@ -1,7 +1,7 @@
 
 #Proof-of-Popularity
 <br>
-Requirement:
+<b>Requirement:</b>
 <br>  MetaMask. 
 
 <u>Steps:
