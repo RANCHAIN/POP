@@ -1,11 +1,12 @@
 
 #Proof-of-Popularity
+<br>
 Requirement:
-  MetaMask. 
+<br>  MetaMask. 
 
 <u>Steps:
 <li>1). clone the repository run:</li>
-<li>`npm start`</li>
+`npm start`
 
 <li>2). Set your MetaMask to use the Kovan Test Network.</li>
 </u>
