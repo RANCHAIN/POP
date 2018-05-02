@@ -1,13 +1,16 @@
 
-# Proof-of-Existence 
+# Reference: Proof-of-Existence - https://github.com/amousa11/ethereum-poe
+Requirement:
+  MetaMask. 
 
-In order to run this you will need MetaMask. This is a very rough product I threw together in a day and I will update it soon, but in the meantime let it server as an example of a quickly built dApp!
-
-Once you clone the repository run:
+Steps:
+1). clone the repository run:
 `npm start`
 
-Set your MetaMask to use the Kovan Test Network.
+2). Set your MetaMask to use the Kovan Test Network.
 
-See `Existence.sol` for the smart contract (hosted on Kovan Testnet).
+
+Note:
+See `popularity.sol` for the smart contract (hosted on Kovan Testnet).
 
 ```Ethereum Proof of Existence dApp built in a day since I couldn't really find one online!```
